@@ -1,0 +1,29 @@
+button{
+	display: inline-block;
+	margin: 2%;
+}
+
+svg{
+	display: block;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+}
+
+.container{
+	width: 1100px;
+	margin: auto;
+
+}
+#container_button{
+	width: 1100px;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+p{
+	margin: auto;
+}
